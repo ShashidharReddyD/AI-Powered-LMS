@@ -214,12 +214,3 @@ Students can:
 
 ---
 
-## 📷 Screenshots
-
-(Add project screenshots here)
-
----
-
-## 📄 License
-
-This project was developed for academic purposes.
